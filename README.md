@@ -2,7 +2,6 @@
 Explorando novas tecnologias e desenvolvendo soluções de software
 
 - 👩‍🎓 **Estudando Engenharia de Software** na [Universidade Estácio de Sá](https://estacio.br/cursos/graduacao/engenharia-de-software)
-- 👩‍💻 Bolsista no [Santander](https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024) do programa Coders na especialidade Back-End Java
 - 🖥️ Atualmente mais focada em:
 
  <div display= "inline" > 
