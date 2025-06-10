@@ -1,7 +1,7 @@
 ## Olá 👋! Eu sou a Vanessa Rutkoski
 Explorando novas tecnologias e desenvolvendo soluções de software
 
-- 👩‍🎓 **Estudando Engenharia de Software** na [Universidade Estácio de Sá](https://estacio.br/cursos/graduacao/engenharia-de-software)
+- 👩‍🎓 **Estudando Engenharia de Software** na [Pontifícia Universidade Católica do Rio Grande do Sul](https://portal.pucrs.br/ensino/cursos/graduacao/engenharia-de-software/)
 - 🖥️ Atualmente mais focada em:
 
  <div display= "inline" > 
